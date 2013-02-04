@@ -1,0 +1,26 @@
+= Arborist
+
+チケットの親子関係が崩れた際に、修復をします。
+
+Redmine2.2.0で動作確認
+
+
+== インストール
+
+1. RAILS_ROOT/pluginsに配置する。
+
+2. Redmineを再起動する。
+
+
+== アンインストール
+
+1. RAILS_ROOT/pluginsから削除する。
+
+2. Redmineを再起動する。
+
+
+== 更新履歴
+
+=== Version 0.0.1b
+
+作成途中です。
