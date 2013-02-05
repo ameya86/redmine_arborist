@@ -1,1 +1,1 @@
-post 'arborists/:type/:id', :to => 'arborists#rebuild'
+post 'arborists/issue/:id', :to => 'arborists#issue'

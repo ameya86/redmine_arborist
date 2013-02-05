@@ -2,4 +2,7 @@ en:
   label_arborist: Rebuild Tree
   button_arborist: Rebuild Tree
 
+  text_arborist_rebuild_success: Success rebuild.
+  text_arborist_rebuild_failure: Failure rebuild.
+
   permission_issue_arborist: Rebuild Issue Tree

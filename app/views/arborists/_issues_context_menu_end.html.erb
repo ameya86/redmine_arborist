@@ -2,7 +2,7 @@
 <% if @issue.present? %>
 <li>
   <%= context_menu_link(l(:button_arborist),
-                        {:controller => 'arborists', :action => 'rebuild', :type => 'Issue', :id => @issue.id, :back_url => @back},
+                        {:controller => 'arborists', :action => 'issue', :id => @issue.id, :back_url => @back},
                         :method => :post,
                         :confirm => l(:text_are_you_sure),
                         :class => 'icon icon-warning') %>

@@ -2,4 +2,7 @@ ja:
   label_arborist: 親子関係の修復
   button_arborist: 親子関係の修復
 
+  text_arborist_rebuild_success: 修復しました。
+  text_arborist_rebuild_failure: 失敗しました。
+
   permission_issue_arborist: チケットの親子関係の修復
